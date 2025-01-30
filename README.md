@@ -19,4 +19,4 @@
 
 <br>
 
-Formado em Sistemas de Informação, com conhecimentos em linguagens de programação, banco de dados e segurança da informação. Habilidade em resolução de problemas e aprendizagem rápida. Busco oportunidades para evoluir minhas habilidades e trabalhar em projetos que sejam desafiadores e que agreguem valor.
+Formado em Sistemas de Informação, experiência com suporte, consultoria de segurança da informação desenvolvendo e aplicando melhorias no ambiente do cliente, gerenciando a implementação e manutenção de políticas e normas de segurança, configuração e criação de scripts para routers eswitchs. Conhecimentos em linguagens de programação, frameworks, desenvolvimento de APIs RESTFULL e banco de dados.
